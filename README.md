@@ -48,7 +48,7 @@ Visual Studio Code:
 ## Fremgangsmåde
 
 1. Opret projektet og kør. Skulle gerne skrive "Hello, World!"
-1. Implementer `GuessANumberGame` klasse og `WriteWelcomeMessage()` metode
+1. Implementer `GuessANumberGame` klasse med `Start()` og `WriteWelcomeMessage()` metoder
    - Forklar lidt om klasser
 1. `FindSecretNumber()` metode, med tilhørende `secretNumber` variabel og `Max` konstant
    - Forklar om metoder, variable og scope
